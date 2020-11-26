@@ -173,3 +173,9 @@ The model output fits well the output of the real sensor and is suitable for sen
 <p align="center">
 <img src="/images/simulation_comparison_allan.png" width="480">
 </p>
+
+## References
+- Application Note AN5087 Allan Variance: Noise Analysis for Gyroscopes , NXP Freescale Semiconductor, 2015
+- Handbook of Frequency Stability Analysis, William J. Riley, Hamilton Technical Services, 2007
+- David W. Allan’s website, http://www.allanstime.com/index.html
+- Inertial Sensor Noise Analysis Using Allan Variance using MATLAB, Mathworks, https://it.mathworks.com/help/fusion/examples/inertial-sensor-noise-analysis-using-allan-variance.html
